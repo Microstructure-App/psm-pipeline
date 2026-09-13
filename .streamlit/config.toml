@@ -1,0 +1,22 @@
+# PCFC Microstructure Pipeline — Streamlit configuration
+# These settings matter for SECURITY when the app is packaged/distributed.
+
+[server]
+# Bind to localhost only: the app is never reachable from other machines on
+# the network. pywebview will connect to 127.0.0.1, so packaging is unaffected.
+address = "127.0.0.1"
+# Cross-site request forgery protection (Streamlit default, stated explicitly).
+enableXsrfProtection = true
+# Cap uploads at 200 MB — an SEM image is a few MB; this blocks abuse.
+maxUploadSize = 200
+
+[browser]
+# Do not send usage telemetry from lab machines.
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#2e6fdb"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f4f6fa"
+textColor = "#1a1a1a"
+font = "sans serif"

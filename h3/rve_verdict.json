@@ -1,0 +1,112 @@
+{
+ "convergence": {
+  "VF_Pore": {
+   "rel_change": 0.0641,
+   "converged": false
+  },
+  "VF_LSCF": {
+   "rel_change": 0.0134,
+   "converged": true
+  },
+  "VF_GDC": {
+   "rel_change": 0.2151,
+   "converged": false
+  },
+  "TPB_density_um2": {
+   "rel_change": 0.0848,
+   "converged": false
+  },
+  "Conn_Pore": {
+   "rel_change": 0.0003,
+   "converged": true
+  },
+  "Conn_LSCF": {
+   "rel_change": 0.2534,
+   "converged": false
+  },
+  "Conn_GDC": {
+   "rel_change": 0.1743,
+   "converged": false
+  },
+  "Tau_Pore": {
+   "rel_change": 0.0,
+   "converged": true
+  },
+  "Tau_LSCF": {
+   "rel_change": null,
+   "converged": false,
+   "note": "non-finite"
+  },
+  "Tau_GDC": {
+   "rel_change": null,
+   "converged": false,
+   "note": "non-finite"
+  },
+  "DPB_Pore-LSCF_um1": {
+   "rel_change": 0.042,
+   "converged": true
+  },
+  "DPB_Pore-GDC_um1": {
+   "rel_change": 0.0642,
+   "converged": false
+  },
+  "DPB_LSCF-GDC_um1": {
+   "rel_change": 0.1191,
+   "converged": false
+  }
+ },
+ "corner_scatter_f06": {
+  "VF_Pore": {
+   "mean": 0.6272294360435386,
+   "cv": 0.13620790454214177
+  },
+  "VF_LSCF": {
+   "mean": 0.1968835607056761,
+   "cv": 0.47923405132069513
+  },
+  "VF_GDC": {
+   "mean": 0.17588700325078532,
+   "cv": 0.2534075974347583
+  },
+  "TPB_density_um2": {
+   "mean": 8.075527681897874,
+   "cv": 0.30401054911813163
+  },
+  "Conn_Pore": {
+   "mean": 0.9987666198390686,
+   "cv": 0.0004967922043237176
+  },
+  "Conn_LSCF": {
+   "mean": 0.5926827225378701,
+   "cv": 0.41007175150027314
+  },
+  "Conn_GDC": {
+   "mean": 0.5871413223365303,
+   "cv": 0.3558063369251008
+  },
+  "Tau_Pore": {
+   "mean": 1.0014044943820224,
+   "cv": 0.00396693846387966
+  },
+  "Tau_LSCF": {
+   "mean": 1.3820224719101122,
+   "cv": 0.15785762470689105
+  },
+  "Tau_GDC": {
+   "mean": 1.3913857677902621,
+   "cv": 0.27453487311667646
+  },
+  "DPB_Pore-LSCF_um1": {
+   "mean": 1.65617124150778,
+   "cv": 0.2224270428411741
+  },
+  "DPB_Pore-GDC_um1": {
+   "mean": 2.2429591049382718,
+   "cv": 0.19208355717167896
+  },
+  "DPB_LSCF-GDC_um1": {
+   "mean": 0.3609507405581124,
+   "cv": 0.3093619532017527
+  }
+ }
+}

@@ -1,0 +1,127 @@
+[
+ {
+  "slice": 15,
+  "rep": 0,
+  "vtk": "h3_outputs\\h3_slice15_rep0.vtk"
+ },
+ {
+  "slice": 15,
+  "rep": 1,
+  "vtk": "h3_outputs\\h3_slice15_rep1.vtk"
+ },
+ {
+  "slice": 15,
+  "rep": 2,
+  "vtk": "h3_outputs\\h3_slice15_rep2.vtk"
+ },
+ {
+  "slice": 15,
+  "rep": 3,
+  "vtk": "h3_outputs\\h3_slice15_rep3.vtk"
+ },
+ {
+  "slice": 15,
+  "rep": 4,
+  "vtk": "h3_outputs\\h3_slice15_rep4.vtk"
+ },
+ {
+  "slice": 45,
+  "rep": 0,
+  "vtk": "h3_outputs\\h3_slice45_rep0.vtk"
+ },
+ {
+  "slice": 45,
+  "rep": 1,
+  "vtk": "h3_outputs\\h3_slice45_rep1.vtk"
+ },
+ {
+  "slice": 45,
+  "rep": 2,
+  "vtk": "h3_outputs\\h3_slice45_rep2.vtk"
+ },
+ {
+  "slice": 45,
+  "rep": 3,
+  "vtk": "h3_outputs\\h3_slice45_rep3.vtk"
+ },
+ {
+  "slice": 45,
+  "rep": 4,
+  "vtk": "h3_outputs\\h3_slice45_rep4.vtk"
+ },
+ {
+  "slice": 75,
+  "rep": 0,
+  "vtk": "h3_outputs\\h3_slice75_rep0.vtk"
+ },
+ {
+  "slice": 75,
+  "rep": 1,
+  "vtk": "h3_outputs\\h3_slice75_rep1.vtk"
+ },
+ {
+  "slice": 75,
+  "rep": 2,
+  "vtk": "h3_outputs\\h3_slice75_rep2.vtk"
+ },
+ {
+  "slice": 75,
+  "rep": 3,
+  "vtk": "h3_outputs\\h3_slice75_rep3.vtk"
+ },
+ {
+  "slice": 75,
+  "rep": 4,
+  "vtk": "h3_outputs\\h3_slice75_rep4.vtk"
+ },
+ {
+  "slice": 105,
+  "rep": 0,
+  "vtk": "h3_outputs\\h3_slice105_rep0.vtk"
+ },
+ {
+  "slice": 105,
+  "rep": 1,
+  "vtk": "h3_outputs\\h3_slice105_rep1.vtk"
+ },
+ {
+  "slice": 105,
+  "rep": 2,
+  "vtk": "h3_outputs\\h3_slice105_rep2.vtk"
+ },
+ {
+  "slice": 105,
+  "rep": 3,
+  "vtk": "h3_outputs\\h3_slice105_rep3.vtk"
+ },
+ {
+  "slice": 105,
+  "rep": 4,
+  "vtk": "h3_outputs\\h3_slice105_rep4.vtk"
+ },
+ {
+  "slice": 135,
+  "rep": 0,
+  "vtk": "h3_outputs\\h3_slice135_rep0.vtk"
+ },
+ {
+  "slice": 135,
+  "rep": 1,
+  "vtk": "h3_outputs\\h3_slice135_rep1.vtk"
+ },
+ {
+  "slice": 135,
+  "rep": 2,
+  "vtk": "h3_outputs\\h3_slice135_rep2.vtk"
+ },
+ {
+  "slice": 135,
+  "rep": 3,
+  "vtk": "h3_outputs\\h3_slice135_rep3.vtk"
+ },
+ {
+  "slice": 135,
+  "rep": 4,
+  "vtk": "h3_outputs\\h3_slice135_rep4.vtk"
+ }
+]

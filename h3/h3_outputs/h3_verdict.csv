@@ -1,0 +1,11 @@
+metric,real,synth_mean,synth_sd,n_percolating,error,bound,within
+VF_Pore,0.6173,0.592,0.0546,,0.0253,0.05,True
+VF_LSCF,0.212,0.2174,0.0452,,0.0055,0.05,True
+VF_GDC,0.1708,0.1906,0.0369,,0.0198,0.05,True
+TPB_density_um2,8.2794,3.4554,0.8295,,0.5827,0.3,False
+Tau_Pore,1.0,1.0,0.0,25.0,0.0,0.2,True
+Tau_LSCF,1.4867,1.2453,0.1675,25.0,0.1623,0.2,True
+Tau_GDC,1.0733,1.3461,0.2085,25.0,0.2542,0.2,False
+Conn_Pore,0.999,0.9973,0.0039,,0.0016,0.15,True
+Conn_LSCF,0.4646,0.639,0.1883,,0.1745,0.15,False
+Conn_GDC,0.4495,0.6634,0.2295,,0.2139,0.15,False

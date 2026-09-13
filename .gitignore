@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+*.spec.bak
+
+# Streamlit local config
+.streamlit/secrets.toml
+
+# Generated outputs (regenerable — not tracked)
+outputs/
+logs/
+h3/h3_outputs/*.vtk
+*.vtk
+
+# Editor / OS
+.vscode/
+*.code-workspace
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
