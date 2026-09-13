@@ -4,7 +4,7 @@ cd /d "%~dp0"
 
 echo ==========================================================
 echo  Uploading psm_pipeline to GitHub
-echo  Repo: Microstructure-App/SEMtoMicrostructure_Ishveer
+echo  Repo: Microstructure-App/psm-pipeline
 echo ==========================================================
 echo.
 
@@ -45,8 +45,8 @@ if errorlevel 1 (
 )
 
 git remote remove origin >nul 2>&1
-git remote add origin https://github.com/Microstructure-App/SEMtoMicrostructure_Ishveer.git
-echo [6/6] Pointed at Dr. Jin's repository.
+git remote add origin https://github.com/Microstructure-App/psm-pipeline.git
+echo [6/6] Pointed at Microstructure-App/psm-pipeline.
 
 echo.
 echo Pushing... a browser window will open asking you to sign in to GitHub.
@@ -64,7 +64,7 @@ if errorlevel 1 (
   echo.
   echo ==========================================================
   echo  DONE. Your files are now at:
-  echo  https://github.com/Microstructure-App/SEMtoMicrostructure_Ishveer
+  echo  https://github.com/Microstructure-App/psm-pipeline
   echo ==========================================================
 )
 
