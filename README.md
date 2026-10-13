@@ -147,6 +147,5 @@ Needs your environment to fully exercise:
 `geometric_tortuosity` returns the **shortest** connected path from the entry
 face to the exit face divided by the straight distance, exactly as the camp
 MATLAB does. On the 5×5 teaching matrix this gives τ = 1.5 (shortest path = 6
-steps), not the 2.0 shown on the lecture slide — the slide traces one specific
-illustrative path that is not the minimum. The slide itself notes you should use
+steps)— the slide traces one specific illustrative path that is not the minimum. The slide itself notes you should use
 the shortest valid path, which is what this code computes.
